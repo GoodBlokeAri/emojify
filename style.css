@@ -4,4 +4,7 @@ input
     margin: auto;
     margin-top: 25%;
     display: block;
+
+    font-size: 16px;
+    font-family: "Verdana", Geneva, sans-serif;
 }
