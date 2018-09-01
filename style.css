@@ -1,4 +1,7 @@
 input
 {
     width: 65%;
+    margin: auto;
+    margin-top: 25%;
+    display: block;
 }
